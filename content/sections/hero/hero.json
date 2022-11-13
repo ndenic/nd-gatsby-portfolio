@@ -1,0 +1,22 @@
+{
+  "intro": "Hey",
+  "heroPhoto": {
+    "src": "../../images/lego-dummy.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I'm a Nikola Denic",
+  "subtitle": {
+    "prefix": "I work as a Software QA Engineer ",
+    "highlight": "with main focus on Automation",
+    "suffix": " at Badin soft"
+  },
+  "description": "You can find me also on those below links",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": true
+  }
+}

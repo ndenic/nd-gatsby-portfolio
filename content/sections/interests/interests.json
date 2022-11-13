@@ -1,0 +1,65 @@
+{
+  "interests": [
+    {
+      "label": "API testing",
+      "image": {
+        "src": "../../images/apitest.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "CI/CD integration for testing purpose",
+      "image": {
+        "src": "../../images/cicd.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "UI/E2E testing",
+      "image": {
+        "src": "../../images/e2e.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Performance testing",
+      "image": {
+        "src": "../../images/perf.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Manual testing",
+      "image": {
+        "src": "../../images/gem-stone.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Consulting",
+      "image": {
+        "src": "../../images/mobile-phone.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Designing and plaining",
+      "image": {
+        "src": "../../images/gatsby.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Knowledge sharing",
+      "image": {
+        "src": "../../images/high-voltage.png",
+        "alt": ""
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 5
+  }
+}
